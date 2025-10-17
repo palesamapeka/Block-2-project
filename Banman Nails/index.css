@@ -87,7 +87,7 @@ header {
 /* Hero Section */
 .hero {
     height: 90vh;
-    background: url('./Hero\ Section\ for\ Banbury\ Man.png') center/cover no-repeat;
+    background: url('./Hero\ Section.png') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -1,1 +1,1 @@
-//Later I will add code for sending emails
+//Later I will add code that allows people to send emails
